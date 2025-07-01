@@ -1,0 +1,8 @@
+# requirements.txt
+langchain-openai
+pypdf
+python-dotenv
+elevenlabs
+firecrawl-py
+moviepy
+pydub
